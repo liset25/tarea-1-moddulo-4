@@ -1,0 +1,10 @@
+.encabezado__titulo {
+   font-size: 2.5cm ;
+   color:red; 
+    margin-bottom: 0.5cm;
+}
+
+.encabezado__parrafo {
+    font-size: 1.2rem;
+    color: orange;
+}
